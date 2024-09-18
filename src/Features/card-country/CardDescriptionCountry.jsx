@@ -1,6 +1,6 @@
 import ButtonBack from "../../components/ButtonBack"
 import { byAlpha3 } from 'iso-country-codes'
-import InfoCountry from "../../components/infoCountry"
+import InfoCountry from "../../components/InfoCountry"
 import BordersCountryName from "../../components/BorderCountryName"
 
 
