@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/dannfront/rest-countries-api-with-color-theme-switcher)
-- Live Site URL: [Live](https://invoice-app-dannfront.netlify.app/login)
+- Live Site URL: [Live](https://main--rest-countries-dannfront.netlify.app)
 
 ### Built with
 
