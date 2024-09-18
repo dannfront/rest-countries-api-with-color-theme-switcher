@@ -18,7 +18,7 @@ Users should be able to:
 - **Bonus**: Toggle the color scheme between light and dark mode
 ### Links
 
-- Solution URL: [Github](https://github.com/dannfront/invoice-app)
+- Solution URL: [Github](https://github.com/dannfront/rest-countries-api-with-color-theme-switcher)
 - Live Site URL: [Live](https://invoice-app-dannfront.netlify.app/login)
 
 ### Built with
